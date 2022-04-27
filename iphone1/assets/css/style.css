@@ -1,0 +1,100 @@
+.navbar-nav{
+    padding-left: 50% !important;
+}
+.navbar .btn-primary{
+    color: white !important;
+    border-radius: 50rem;
+    background-color: #2937f0;
+    border-color: #212cc0;
+
+}
+.btn-primary:hover{
+    background-color:#212cc0 ;
+}
+header{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+}
+.navbar-brand {
+    padding-left: 10%;
+ 
+}
+.nav-item{
+    padding-left: 1rem;
+}
+.navbar-brand{
+    padding-top: 1%;
+}
+.nav-link {
+    font-size: 17px;
+    color: black;
+}
+.nav-link:hover{
+    color: #212529;
+}
+.main{
+    background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+} 
+.main1{
+    background-color: #f8f9fa;
+}
+.icon{
+    width: 100%;
+    display: flex;
+   flex-direction: row;
+   gap: 8%;
+  
+}
+.main3{
+    background-color: #f8f9fa;
+}
+.icon .bi{
+    text-align: center;
+    font-size: 1rem;
+   color: #9f1ae2;
+  
+}
+i{
+    font-size: 4rem;
+    color: #9f1ae2;
+}
+
+.icon .img{
+  background-color: #212529;
+
+}
+.border-none{
+    border: none;
+}
+.tx{
+    text-align: center;
+}
+.end{
+    background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+}
+.footer{
+    background-color: black;
+
+}
+.a a{
+    font-size:1rem;
+    color: #6c757d;
+    margin: 0.5%;
+    text-decoration: none;
+
+}
+.photo{
+    background-image: url(https://images.unsplash.com/photo-1620912189865-1e8a33da4c5e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=800&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzODQ4Njk4Mw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1500);
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    padding: 15rem 0;
+}
+.card-body h5{
+    font-size: 1.75rem;
+}
+.card-body p{
+    color: #6c757d
+}
